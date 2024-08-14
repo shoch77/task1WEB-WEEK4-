@@ -2,6 +2,8 @@
 
 This project is a web-based voice-to-text converter user interface. It allows users to record their voice, convert the speech to text, and save the transcribed text to a database.
 
+<img src=https://github.com/user-attachments/assets/9741a854-9164-4d95-b9e4-ba92e742008a width=80%>
+
 ## Features
 
 - **Speech Recognition:** Converts voice input into text using the Web Speech API.
